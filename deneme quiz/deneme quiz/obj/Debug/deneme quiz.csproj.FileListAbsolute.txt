@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\deneme quiz\deneme quiz\bin\Debug\deneme quiz.exe.config
+C:\Users\user\Desktop\10-M\deneme quiz\deneme quiz\bin\Debug\deneme quiz.exe
+C:\Users\user\Desktop\10-M\deneme quiz\deneme quiz\bin\Debug\deneme quiz.pdb
+C:\Users\user\Desktop\10-M\deneme quiz\deneme quiz\obj\Debug\deneme quiz.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\deneme quiz\deneme quiz\obj\Debug\deneme_quiz.Form1.resources
+C:\Users\user\Desktop\10-M\deneme quiz\deneme quiz\obj\Debug\deneme_quiz.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\deneme quiz\deneme quiz\obj\Debug\deneme quiz.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\deneme quiz\deneme quiz\obj\Debug\deneme quiz.exe
+C:\Users\user\Desktop\10-M\deneme quiz\deneme quiz\obj\Debug\deneme quiz.pdb
